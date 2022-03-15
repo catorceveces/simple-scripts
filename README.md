@@ -1,2 +1,2 @@
 # simple-scripts
-Colección de scripts simples y útiles
+Colección de scripts simples y útiles. 🐍
